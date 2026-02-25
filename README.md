@@ -93,12 +93,18 @@ npm install
 ```
 
 
-3. **Inicie o ambiente de desenvolvimento:**
+3. **Pacotes adicionais para funcionamento do player:**
+```bash
+npm install tailwindcss@latest @tailwindcss/vite@latest lucide-vue-next
+
+```
+
+
+4. **Inicie o ambiente de desenvolvimento:**
 ```bash
 npm run dev
 
 ```
-
 
 
 ---
