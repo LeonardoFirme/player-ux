@@ -109,17 +109,17 @@ npm run dev
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Autor e Mantenedor
 
-**Leonardo Firme**
+Desenvolvido por **Leonardo Firme**. Focado em entregar estruturas escaláveis para o mercado de plataformas SaaS e sistemas de gestão.
 
-* GitHub: [@LeonardoFirme](https://github.com/LeonardoFirme)
-* Company: [v0 Digital](https://github.com/v0digital)
+* **GitHub Pessoal:** [LeonardoFirme](https://github.com/LeonardoFirme)
+* **NPM Profile:** [@leonardofirme](https://www.npmjs.com/~leonardofirme)
 
 ---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
+Uso disponível para a comunidade sob os termos de desenvolvimento de plataformas do ecossistema Leonardo Firme.
 
 ---
